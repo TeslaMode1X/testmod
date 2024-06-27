@@ -1,3 +1,1 @@
-module github.com/TeslaMode1X/testmod
-
-go 1.22.4
+module github.com/TeslaMode1X/testmod/v2
