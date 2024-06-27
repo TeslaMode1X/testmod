@@ -7,7 +7,7 @@ import (
 
 func Hi(name, lang string) (string, error) {
 	if name == "" {
-		return "", errors.New("name cannot be empty")
+		return "", errors.New("name cannofft be empty")
 	}
 
 	switch lang {
